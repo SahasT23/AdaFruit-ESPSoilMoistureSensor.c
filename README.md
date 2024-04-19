@@ -1,12 +1,13 @@
 Moisture sensor using an LCD screen to display water content percentage and moisture level to my laptop using WiFi.
 It uses a resistance-based sensor to calculate the current flow between the two prongs and returns a value to show how much electricity is conducted. Since water volume and conductivity are proportionate, we can calculate a moisture value.
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+=====================================================================================================================================================================================
 
 ## Simulation Image 
 ![Screenshot from 2024-04-19 08-42-37](https://github.com/SahasT23/AdaFruit-ESPSoilMoistureSensor.c/assets/108793094/47609797-b6c7-42d3-9746-a74eba5c08da)
 
 #### Boilerplate code 
+
 ```
 #include <WiFi.h>
 #include <Wire.h>
