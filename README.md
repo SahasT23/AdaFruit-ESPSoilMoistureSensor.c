@@ -6,7 +6,7 @@ It uses a resistance-based sensor to calculate the current flow between the two 
 ## Simulation Image 
 ![Screenshot from 2024-04-19 08-42-37](https://github.com/SahasT23/AdaFruit-ESPSoilMoistureSensor.c/assets/108793094/47609797-b6c7-42d3-9746-a74eba5c08da)
 
-Simple template and boilerplate code 
+###### Boilerplate code 
 ```
 #include <WiFi.h>
 #include <Wire.h>
